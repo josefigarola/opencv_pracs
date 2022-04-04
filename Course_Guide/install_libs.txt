@@ -1,0 +1,14 @@
+From the command prompt with python 3.7 or above.
+
+Download main and contributed from the community modules
+Numpy library is requiered
+$ pip install numpy
+$ pip install opencv-contrib-python
+
+If there is any given problem download it with
+$ python -m pip install --user opencv-contrib-python
+$ pip3 install opencv-contrib-python
+
+Install matplot
+$ python -m pip install -U pip
+$ python -m pip install -U matplotlib

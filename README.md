@@ -1,6 +1,6 @@
 # opencv_pracs
 
-This repository objetive is to get to know the basic functions of computers vision library OpenCV.
+The main objetive of the repository is to get to know the basic functions of computers vision library OpenCV and apply these with different pictures/photos for a better understanding.
 
 # Course Guide
 The Course_Guide folder contains the libraries needed in order to run, compile and code; it also has a list were it explains topics and its python script.

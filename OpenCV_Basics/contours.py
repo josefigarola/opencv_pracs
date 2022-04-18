@@ -3,7 +3,7 @@
 import cv2 as cv
 import numpy as np
 
-img = cv.imread('photos/gas_cara.jpg.crdownload')
+img = cv.imread('photos/cat.jfif')
 cv.imshow('Gas',img)
 
 blank = np.zeros(img.shape, dtype='uint8')

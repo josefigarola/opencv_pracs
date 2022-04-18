@@ -8,7 +8,7 @@ img = cv.imread('photos/newyork.jpg')
 # Show the given image
 cv.imshow('Cat',img)
 
-# To capture a 
+# To capture a Video
 # capture = cv.VideoCapture('path')
 #while True: 
 #    isTrue, frame = capture.read()
